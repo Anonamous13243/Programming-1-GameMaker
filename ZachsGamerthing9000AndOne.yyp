@@ -34,16 +34,20 @@
   },
   "name":"ZachsGamerthing9000AndOne",
   "resources":[
+    {"id":{"name":"BigOlBaddie","path":"objects/BigOlBaddie/BigOlBaddie.yy",},},
     {"id":{"name":"GoodOlGuy","path":"objects/GoodOlGuy/GoodOlGuy.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"Loser","path":"sprites/Loser/Loser.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"Spritefirst","path":"sprites/Spritefirst/Spritefirst.yy",},},
+    {"id":{"name":"SpriteSecond","path":"sprites/SpriteSecond/SpriteSecond.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"GoodOlGuy",
+  "%Name":"BigOlBaddie",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"GoodOlGuy",
+  "name":"BigOlBaddie",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spritefirst",
-    "path":"sprites/Spritefirst/Spritefirst.yy",
+    "name":"SpriteSecond",
+    "path":"sprites/SpriteSecond/SpriteSecond.yy",
   },
   "spriteMaskId":null,
   "visible":true,
