@@ -38,6 +38,7 @@
     {"id":{"name":"BULLETobj","path":"objects/BULLETobj/BULLETobj.yy",},},
     {"id":{"name":"GoodOlGuy","path":"objects/GoodOlGuy/GoodOlGuy.yy",},},
     {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
+    {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"BIGBULLET","path":"sprites/BIGBULLET/BIGBULLET.yy",},},
