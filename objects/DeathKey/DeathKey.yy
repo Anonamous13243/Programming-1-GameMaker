@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object3",
+  "%Name":"DeathKey",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":82,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object3",
+  "name":"DeathKey",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
