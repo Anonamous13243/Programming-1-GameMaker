@@ -41,6 +41,8 @@
     {"id":{"name":"Spawner","path":"objects/Spawner/Spawner.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"Death","path":"sounds/Death/Death.yy",},},
+    {"id":{"name":"Shoot","path":"sounds/Shoot/Shoot.yy",},},
     {"id":{"name":"BIGBULLET","path":"sprites/BIGBULLET/BIGBULLET.yy",},},
     {"id":{"name":"Loser","path":"sprites/Loser/Loser.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
